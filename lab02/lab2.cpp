@@ -145,5 +145,4 @@ Item *readData(const char *filename, int &len)
      array[i] = *current;
   }
   return array;  
-
 }
